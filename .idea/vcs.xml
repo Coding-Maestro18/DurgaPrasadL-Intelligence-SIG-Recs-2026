@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mandatory-tasks/seq2seq-grounded-dialogue-generation/subtask3/datasets-CMU_DoG" vcs="Git" />
+  </component>
+</project>
